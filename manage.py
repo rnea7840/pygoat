@@ -1,1 +1,1 @@
-To fix this vulnerability, update the code to use modern and secure cryptographic algorithms provided by libraries like Cryptography or hashlib in Python. Ensure proper key management and encryption practices.
+Update the code to use modern and secure cryptographic algorithms from reputable libraries like Cryptography or hashlib in Python. Ensure proper key management and encryption practices are followed.
